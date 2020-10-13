@@ -1,2 +1,6 @@
 # smylpool
-2d simulation of billards game
+simulation modeste de jeu de billards
+
+It needs python 2.7 and pygame (pip install pygame)
+
+
